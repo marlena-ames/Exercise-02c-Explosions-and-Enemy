@@ -2,7 +2,7 @@
 
 Exercise for MSCH-C220
 
-A user-controlled ship in a space-shooter game. Explosions! Asteroids! Smaller asteroids! An alien ship!. Created in Godot.
+A user-controlled ship in a space-shooter game. Explosions! Asteroids! Smaller asteroids! An alien ship!. Created in Unity.
 
 ## Implementation
 
